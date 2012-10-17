@@ -4,9 +4,11 @@
                                -----------------
 
 
-  This is a fork. Origin project repository is at http://simile-widgets.googlecode.com/svn/timeline/.
-  Simile-Widget-Timeline depend on Simile-Ajax (http://simile-widgets.googlecode.com/svn/ajax/).
-  This project combine Simile-Widget-Timeline and it dependance project (Simile-Ajax http://simile-widgets.googlecode.com/svn/ajax/)
+  This is a fork. Origin project repository is at
+  http://simile-widgets.googlecode.com/svn/timeline/.
+  
+  This project combine Simile-Widget-Timeline and it dependance project
+  (Simile-Ajax http://simile-widgets.googlecode.com/svn/ajax/)
   ,and republish as a single independant use.
   
   This is not complete!!
